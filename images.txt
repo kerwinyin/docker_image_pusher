@@ -1,2 +1,13 @@
-centos:7.9.2009
+centos:7.9.2009        
+centos:6.10       
+centos:6.8     
+centos:centos8.4.2105   
+bdobyns/centos4.6_i386:latest   
 phyzli/centos8_xfce4_tigervnc_virtuosoic617_mmsim15_calibre2015:latest
+
+
+
+
+
+
+
